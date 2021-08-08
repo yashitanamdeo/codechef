@@ -10,6 +10,4 @@ for _ in range(T):
         else:
             print("1") #here there are 3 same numbers hence output is 1
     else:
-        print("0"
-
-        
+        print("0")
