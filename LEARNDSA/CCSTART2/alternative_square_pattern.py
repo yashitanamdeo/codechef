@@ -1,3 +1,5 @@
+'''Problem Statement: https://www.codechef.com/CCSTART2/problems/SQALPAT'''
+
 N = int(input())
 k = -4
 for i in range(1,N+1):
