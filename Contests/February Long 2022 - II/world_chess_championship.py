@@ -12,7 +12,11 @@ for _ in range(T):
             Ncount += 1
         if game[i] == 'D':
             Dcount += 1
-    
+    '''
+    Ccount = game.count('C')
+    Ncount = game.count('N')
+    Dcount = game.count('D')
+    '''
     Cpoints = 2 * Ccount + (1 * Dcount)
     Npoints = 2 * Ncount + (1 * Dcount)
 
